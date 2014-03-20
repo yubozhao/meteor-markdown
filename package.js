@@ -2,8 +2,6 @@
 
 Package.describe("Github flavor Markdown parser");
 
-Npm.depends({"marked": "0.3.2"});
-
 Package.on_use(function (api) {
   api.add_files('marked.js', ['server', 'client']);
   api.add_files('markdown.js', ['server', 'client']);
