@@ -1,0 +1,8 @@
+{
+  "name": "meteor-markdown",
+  "description": "Meteor markdown based on marked.js",
+  "homepage": "https://github.com/yubozhao/meteor-markdown",
+  "author": "Bozhao Yu (https://github.com/yubozhao)",
+  "version": "0.0.1",
+  "git": "https://github.com/yubzhao/meteor-markdown.git"
+}
